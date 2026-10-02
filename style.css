@@ -1,0 +1,11 @@
+/* This is a CSS Comment */
+/* Comments are used to explain the code */
+
+body (
+    background-color: lightblue;   /* Sets background
+color */
+    font-family: Arial;            /* Sets font style */
+)
+h1 (
+   color:red; /* Heading color */
+)
